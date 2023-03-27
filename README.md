@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hongik Univ. CE class of 2024<br>홍익대학교 멋쟁이 사자처럼 10기 활동<br>홍익대학교 멋쟁이 사자처럼 11기 대표 <br>https://github.com/THLcode
+Hongik Univ. CE class of 2024<br>(前)홍익대학교 멋쟁이 사자처럼 10기 활동<br>(前)Shaashop Software engineer <br>(現)홍익대학교 멋쟁이 사자처럼 11기 대표 <br><br>GITHUB: https://github.com/THLcode<br>VELOG: https://velog.io/@xognl1124
 
 
 ## 🌐 Socials:
